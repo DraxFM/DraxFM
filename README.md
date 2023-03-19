@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://discord.gg/wfa">
+<a href="https://discord.gg/sEXECdC3Et">
 <img src="https://lanyard.cnrad.dev/api/654343206275907585?hideTimestamp=false&hideBadges=false&idleMessage=My%20current%20project%20I'm%20working%20on%20is%20DraxPloit%20Grabber"
 </a>
 </p>
