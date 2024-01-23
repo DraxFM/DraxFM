@@ -1,12 +1,13 @@
 <p align="center">
 <a href="https://discord.gg/sEXECdC3Et">
-<img src="https://lanyard.cnrad.dev/api/654343206275907585?hideTimestamp=false&hideBadges=false&idleMessage=My%20current%20project%20I'm%20working%20on%20is%20DraxPloit%20Grabber"
+<img src="https://lanyard.cnrad.dev/api/654343206275907585?hideTimestamp=false&hideBadges=false&idleMessage=Just%20chilling"
 </a>
 </p>
 
   
 ### This is me
-I'm an infamous developer from Germany. I'm native german but I'm pretty proficient in English. I love coding in Python and I'm currently learning reverse engineering using machine code, Assembly and C#.  
+i just like coding honestly  
+  
   
 <a href="https://github.com/DraxFM">
     <img src="https://komarev.com/ghpvc/?username=DraxFM" alt="page views" />
