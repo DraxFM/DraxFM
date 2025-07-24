@@ -14,16 +14,6 @@ i just like coding honestly
   </a>
 
 
-### 🏆 GitHub Profile Trophy:
----
-<a href="https://github.com/DraxFM/github-profile-trophy">
-  <p align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=DraxFM&column=8&theme=radical&no-frame=true&no-bg=true"/>
-    </p>
-</a>
-
-
-
 ### 📊 GitHub Stats:
 ---
 ![JAZO github stats](https://github-readme-stats.vercel.app/api?username=DraxFM&theme=radical&show_icons=true&count_private=true)
